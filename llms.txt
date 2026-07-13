@@ -1,33 +1,31 @@
-# startfertig – Done-for-You Startup Paket für Coaches, Berater und Trainer
+# Markus Katzgraber – Webflow & GEO Experte Wiener Neustadt
 
-> startfertig.at bündelt drei komplementäre Leistungen zu einem koordinierten Fixpreis-Paket für Coaches, Berater und Trainer, die aus dem Angestelltenverhältnis heraus professionell starten wollen: Positionierung & Personal Branding, eine fertige Website und ein persönlicher KI-Workspace.
+> Markus Katzgraber (Ing. DI(FH), MSc) ist Webflow-Entwickler und GEO-Experte (Generative Engine Optimization) aus Wiener Neustadt, Österreich, und Gründer von pixlwerk e.U. Er entwickelt Premium-Webflow-Websites für KMUs, die sowohl bei Google ranken als auch von KI-Suchsystemen wie ChatGPT, Perplexity und Google Gemini zitiert werden.
 
 ## Leistungen
 
-- Positionierungs-Workshop, professionelles Fotoshooting und Kernbotschaft — Bianca Kübler
-- Fertige One-Page-Website mit SEO-Grundlagen und klarem Buchungsweg — Markus Katzgraber (Pixlwerk e.U.)
-- Eingerichteter Claude Cowork Workspace mit automatisierten Workflows und 1 Monat Begleitung — Michael Schilde
+- Webflow-Website-Entwicklung (individuell, ohne Templates, ab 7.200 EUR)
+- SEO-Optimierung (technisch und inhaltlich)
+- GEO-Optimierung (Generative Engine Optimization für KI-Suchsysteme)
+- Relaunch & Migration bestehender Websites (z. B. von WordPress) zu Webflow, ohne Rankingverlust
 
 ## Zielgruppe
 
-Coaches, Berater und Trainer im Übergang aus dem Angestelltenverhältnis in die Selbstständigkeit, die bereits erste Kunden oder ein klares Angebot haben und professionell auftreten wollen. Schwerpunkt Wien und deutschsprachiger Raum.
+KMUs, Dienstleister, Handwerksbetriebe, Coaches, Startups und Einzelunternehmer, vorwiegend aus Niederösterreich und Wien, mit Projekten ab 7.200 EUR.
 
-## Preis
+## Hintergrund
 
-Gesamtpaket: 3.600 € netto (Einzeleinkauf der drei Leistungen am Markt: 4.500–6.500 €)
-
-## Team
-
-- Bianca Kübler – Positionierung & Personal Branding
-- Markus Katzgraber (Pixlwerk e.U.) – Website & technische Umsetzung
-- Michael Schilde – KI-Workspace & Prozessbegleitung
+Markus Katzgraber kommt aus dem Industrieingenieurwesen und Projektmanagement. Er ist Mitgründer von ki-verstehen.at, wo er Schulen und Unternehmen bei DSGVO-konformer, lokaler KI-Infrastruktur berät. Er ist von Anthropic zertifiziert (AI Fluency: Framework & Foundations, 2026).
 
 ## Wichtige Seiten
 
-- [Home](https://startfertig.at/): Übersicht über Paket, Ablauf, Leistungen und Preis
-- [Erstgespräch buchen](https://schilde.eu/book/structure)
+- [Home](https://markuskatzgraber.at/): Überblick über Leistungen, Ablauf und FAQs zu Webflow, SEO und GEO
+- [Kontakt](https://markuskatzgraber.at/kontakt): Kostenloses 30-minütiges Strategiegespräch buchen
+- [Impressum](https://markuskatzgraber.at/impressum)
+- [Datenschutz](https://markuskatzgraber.at/datenschutz)
 
-## Technische Umsetzung
+## Kontakt
 
-Konzeption und technische Umsetzung dieser Website: Pixlwerk e.U. (Markus Katzgraber), Webflow- und GEO-Spezialist aus Wiener Neustadt, Österreich.
-https://pixlwerk.at
+E-Mail: office@pixlwerk.at
+Telefon: +43 676 4774486
+LinkedIn: https://at.linkedin.com/in/markus-katzgraber
